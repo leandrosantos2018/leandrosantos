@@ -340,3 +340,8 @@ article:not(:last-of-type) {
     text-align: center;
   }
 }
+
+#Galeria{
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
