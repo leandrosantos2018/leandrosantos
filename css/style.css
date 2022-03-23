@@ -46,12 +46,15 @@ aside {
 .title-name {
   color: #284b63;
   font-family: 'Merriweather', serif;
-  font-weight: 700;
+  font-weight: 500;
   margin: 8px 0 0;
+  justify-items: center;
+    margin-left: 43px;
 }
 
 .title-name span {
-  font-weight: 400;
+  font-weight: 200;
+  
 }
 
 .subtitle-role {
